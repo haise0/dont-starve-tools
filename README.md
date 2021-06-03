@@ -2,20 +2,23 @@
 [![](https://img.shields.io/github/release/handsomematt/dont-starve-tools.svg)]()
 [![](https://img.shields.io/github/license/handsomematt/dont-starve-tools.svg)]()
 
-## Synopsis
+## The Gist of Things
 
-Klei Studio is a simple suite of tools for Don't Starve (and can be used for their other games too).
+For usage in conjunction with the new [DSTEd-C](https://github.com/haise0/Klein-DST/), until I can integrate it into the project and provide fuller functionality.
 
-Note: These tools are old and unmaintained and may contain bugs. You should really use the official tools instead.
+## Download
 
-## Quick start
+* [Release page](https://github.com/haise0/dst-tex-tools/).
 
-* [Download the latest release](https://github.com/zxcvbnm3057/dont-starve-tools/releases).
+## Contribute
 
-## Contributing
+If you would like to contribute bug fixes and the likes, make a pull request or submit an issue.
 
-If you would like to contribute bug fixes and the likes, just make a pull request.
-
-## Copyright and license
+## Copyright and License
 
 Copyright 2013-2020 Matt Stevens under [the MIT license](LICENSE).
+Copyright 2021 Haise0 under [the MIT license](LICENSE). 
+
+## Credit
+
+Thank you to [zxcvbnm3057](https://github.com/zxcvbnm3057) for the original project.
