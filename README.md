@@ -1,10 +1,6 @@
-[![](https://img.shields.io/github/stars/handsomematt/dont-starve-tools.svg?style=social&label=Star)]()
-[![](https://img.shields.io/github/release/handsomematt/dont-starve-tools.svg)]()
-[![](https://img.shields.io/github/license/handsomematt/dont-starve-tools.svg)]()
-
 ## The Gist of Things
 
-For usage in conjunction with the new [DSTEd-C](https://github.com/haise0/Klein-DST/), until I can integrate it into the project and provide fuller functionality.
+For usage in conjunction with the new [Klein](https://github.com/haise0/Klein-DST/), until I can integrate it into the project and provide fuller functionality.
 
 ## Download
 
